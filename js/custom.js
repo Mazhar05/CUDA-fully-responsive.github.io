@@ -86,6 +86,10 @@ $(".scrollup").click(function() {
 })
 
 
+var config = document.querySelector('.portfolio-card');
+var mixer = mixitup(config);
+
+
 
 
 
